@@ -1,0 +1,74 @@
+{
+  "foundingMembers": [
+    {
+      "name": "Alice Smith",
+      "image": "https://siam-juit.github.io/website/assets/img/team/achyut.jpg",
+      "role": "CEO"
+    },
+    {
+      "name": "Bob Johnson",
+      "image": "https://siam-juit.github.io/website/assets/img/team/ashima.jfif",
+      "role": "CTO"
+    },
+    {
+      "name": "Carol Danvers",
+      "image": "https://siam-juit.github.io/website/assets/img/team/biswa.jpg",
+      "role": "CFO"
+    },
+    {
+      "name": "Dave Lee",
+      "image": "https://siam-juit.github.io/website/assets/img/team/dev.jfif",
+      "role": "COO"
+    },
+    {
+      "name": "Eva Green",
+      "image": "https://siam-juit.github.io/website/assets/img/team/aryan.jpeg",
+      "role": "COO"
+    },
+    {
+      "name": "Frank Castle",
+      "image": "https://siam-juit.github.io/website/assets/img/team/aishani.jfif",
+      "role": "COO"
+    },
+    {
+      "name": "Grace Hopper",
+      "image": "https://siam-juit.github.io/website/assets/img/team/piyush.jpg",
+      "role": "COO"
+    }
+  ],
+  "additionalMember": {
+    "name": "John Doe",
+    "image": "https://siam-juit.github.io/website/assets/img/team/viveksehgal.jpeg",
+    "role": "Developer"
+  },
+  "coordinators": {
+    "2021": [
+      {
+        "name": "Jane Doe",
+        "image": "https://via.placeholder.com/150",
+        "designation": "Coordinator",
+        "linkedin": "https://linkedin.com/in/janedoe"
+      },
+      {
+        "name": "John Smith",
+        "image": "https://via.placeholder.com/150",
+        "designation": "Assistant Coordinator",
+        "linkedin": "https://linkedin.com/in/johnsmith"
+      }
+    ],
+    "2022": [
+      {
+        "name": "Alice Brown",
+        "image": "https://via.placeholder.com/150",
+        "designation": "Coordinator",
+        "linkedin": "https://linkedin.com/in/alicebrown"
+      },
+      {
+        "name": "Bob White",
+        "image": "https://via.placeholder.com/150",
+        "designation": "Assistant Coordinator",
+        "linkedin": "https://linkedin.com/in/bobwhite"
+      }
+    ]
+  }
+}
