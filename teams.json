@@ -50,26 +50,24 @@
         "linkedin": "https://linkedin.com/in/janedoe"
       },
       {
+        "name": "Ja Doe",
+        "image": "https://via.placeholder.com/150",
+        "designation": "Coo",
+        "linkedin": "https://linkedin.com/in/janedoe"
+      },
+      {
         "name": "Jane Doe",
         "image": "https://via.placeholder.com/150",
         "designation": "Coordinator",
         "linkedin": "https://linkedin.com/in/janedoe"
-      },{
+      },
+      {
         "name": "Jane Doe",
         "image": "https://via.placeholder.com/150",
         "designation": "Coordinator",
         "linkedin": "https://linkedin.com/in/janedoe"
-      },{
-        "name": "Jane Doe",
-        "image": "https://via.placeholder.com/150",
-        "designation": "Coordinator",
-        "linkedin": "https://linkedin.com/in/janedoe"
-      },{
-        "name": "Jane Doe",
-        "image": "https://via.placeholder.com/150",
-        "designation": "Coordinator",
-        "linkedin": "https://linkedin.com/in/janedoe"
-      },{
+      },
+      {
         "name": "Jane Doe",
         "image": "https://via.placeholder.com/150",
         "designation": "Coordinator",
@@ -88,6 +86,12 @@
         "image": "https://via.placeholder.com/150",
         "designation": "Coordinator",
         "linkedin": "https://linkedin.com/in/alicebrown"
+      },
+      {
+        "name": "Jane Doe",
+        "image": "https://via.placeholder.com/150",
+        "designation": "Coordinator",
+        "linkedin": "https://linkedin.com/in/janedoe"
       },
       {
         "name": "Bob White",
