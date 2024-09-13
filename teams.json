@@ -42,41 +42,41 @@
     "role": "FOUNDING FACULTY ADVISOR"
   },
   "coordinators": {
-    "2021": [
+    "2023": [
       {
-        "name": "Jane Doe",
+        "name": "Shambhavi Singh",
         "image": "https://via.placeholder.com/150",
-        "designation": "Coordinator",
+        "designation": "President",
         "linkedin": "https://linkedin.com/in/janedoe"
       },
       {
-        "name": "Ja Doe",
+        "name": "Harsh Raj",
         "image": "https://via.placeholder.com/150",
-        "designation": "Coo",
+        "designation": "Vice President",
         "linkedin": "https://linkedin.com/in/janedoe"
       },
       {
-        "name": "Jane Doe",
+        "name": "Ankush Singh",
         "image": "https://via.placeholder.com/150",
-        "designation": "Coordinator",
+        "designation": "Secretary",
         "linkedin": "https://linkedin.com/in/janedoe"
       },
       {
-        "name": "Jane Doe",
+        "name": "Vanshi Goyal",
         "image": "https://via.placeholder.com/150",
-        "designation": "Coordinator",
+        "designation": "Joint Secretary",
         "linkedin": "https://linkedin.com/in/janedoe"
       },
       {
-        "name": "Jane Doe",
+        "name": "Aman Shrivastava",
         "image": "https://via.placeholder.com/150",
-        "designation": "Coordinator",
+        "designation": "Treasurer",
         "linkedin": "https://linkedin.com/in/janedoe"
       },
       {
-        "name": "John Smith",
+        "name": "Divyansh Sehgal",
         "image": "https://via.placeholder.com/150",
-        "designation": "Assistant Coordinator",
+        "designation": "Webmaster",
         "linkedin": "https://linkedin.com/in/johnsmith"
       }
     ],
