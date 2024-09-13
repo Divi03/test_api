@@ -1,45 +1,45 @@
 {
   "foundingMembers": [
     {
-      "name": "Alice Smith",
+      "name": "Achyut Tiwari",
       "image": "https://siam-juit.github.io/website/assets/img/team/achyut.jpg",
-      "role": "CEO"
+      "role": "Founding President"
     },
     {
-      "name": "Bob Johnson",
+      "name": "ASHIMA PAL",
       "image": "https://siam-juit.github.io/website/assets/img/team/ashima.jfif",
-      "role": "CTO"
+      "role": "VICE PRESIDENT"
     },
     {
-      "name": "Carol Danvers",
+      "name": "SUVEER SHARMA",
       "image": "https://siam-juit.github.io/website/assets/img/team/biswa.jpg",
-      "role": "CFO"
+      "role": "SECRETARY"
     },
     {
-      "name": "Dave Lee",
+      "name": "DEV TYAGI",
       "image": "https://siam-juit.github.io/website/assets/img/team/dev.jfif",
-      "role": "COO"
+      "role": "TREASURER"
     },
     {
-      "name": "Eva Green",
+      "name": "ARYAN CHUGH",
       "image": "https://siam-juit.github.io/website/assets/img/team/aryan.jpeg",
-      "role": "COO"
+      "role": "HEAD OF RESEARCH"
     },
     {
-      "name": "Frank Castle",
+      "name": "AISHANI PACHAURI",
       "image": "https://siam-juit.github.io/website/assets/img/team/aishani.jfif",
-      "role": "COO"
+      "role": "HEAD OF OPERATIONS"
     },
     {
-      "name": "Grace Hopper",
+      "name": "PIYUSH SINGH",
       "image": "https://siam-juit.github.io/website/assets/img/team/piyush.jpg",
-      "role": "COO"
+      "role": "WEBMASTER"
     }
   ],
   "additionalMember": {
-    "name": "John Doe",
+    "name": "Prof. (DR.) Vivek Kumar Sehgal",
     "image": "https://siam-juit.github.io/website/assets/img/team/viveksehgal.jpeg",
-    "role": "Developer"
+    "role": "FOUNDING FACULTY ADVISOR"
   },
   "coordinators": {
     "2021": [
